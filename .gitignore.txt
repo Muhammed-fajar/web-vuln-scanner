@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/
+reports/
+.DS_Store
+.idea/
+.vscode/
+chromedriver/
