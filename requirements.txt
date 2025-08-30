@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+colorama
+PyYAML
+reportlab
+selenium
+webdriver-manager
+tqdm
+python-dotenv
