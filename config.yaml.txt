@@ -1,0 +1,14 @@
+target: "http://localhost:3000"
+max_depth: 2
+threads: 5
+rate_limit: 0.2
+use_selenium: true
+selenium:
+  headless: true
+  render_wait: 2
+plugins_enabled: true
+sensitive_files:
+  - .env
+  - .git/config
+  - config.php
+  - backup.zip
